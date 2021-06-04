@@ -8,11 +8,11 @@
 <tr><td>Nama</td><td>Jurusan</td><td>Jenis Kelamin</td><td>Usia</td></tr>
 <?php
 $mahasiswa = array(
-		array("Dimas", "Teknik Informatika", "Laki-laki",23),
-		array("Fitri", "Sistem Informasi", "Perempuan", 22),
-		array("Juan", "Manajemen Informatika", "Laki-laki",24),
-		array("Wulan", "Teknik Komputer", "Perempuan", 20),
-		array("Marcel", "Teknik Informatika", "Laki-laki", 24)
+		array("Ari", "Teknik Komputer", "Laki-laki",21),
+		array("Nugi", "Teknik Elektronika Telekomunikasi", "Laki-Laki", 21),
+		array("Yanda", "Akuntansi", "Perempuan",21),
+		array("Fitra", "Teknik Listrik", "Perempuan", 21),
+		array("Gina", "Teknik Informatika", "Perempuan", 21)
 		);
 			
 	for ($row = 0; $row < 5; $row++) {
