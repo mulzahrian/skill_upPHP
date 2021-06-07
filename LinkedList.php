@@ -1,5 +1,5 @@
 <?php
-//node structure
+//struktur node
 class Node {
   public $data;
   public $next;
@@ -8,12 +8,12 @@ class Node {
 class LinkedList {
   public $head;
 
-  //constructor to create an empty LinkedList
+  //constructor untuk membuat linkedlist menjadi kosong
   public function __construct(){
     $this->head = null;
   }
   
-  //display the content of the list
+  //menampilkan konten dari list
   public function PrintList() {
     $temp = new Node();
     $temp = $this->head;
