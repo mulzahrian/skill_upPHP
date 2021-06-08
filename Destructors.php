@@ -15,6 +15,6 @@ class person {
   }   
 };
 
-$p1 = new person('John', 'London');
-$p2 = new person('Marry', 'New York');
+$p1 = new person('Ari', 'German');
+$p2 = new person('Rian', 'Jakarta');
 ?>
