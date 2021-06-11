@@ -6,3 +6,4 @@ all php data structure practice
 all subject
 - Stack
 - Fibonacci
+- Binary Tree
