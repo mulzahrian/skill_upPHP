@@ -10,3 +10,4 @@ all subject
 - Stack
 - Linked List
 - Fibonacci
+- Destructors
