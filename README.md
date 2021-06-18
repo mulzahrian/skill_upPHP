@@ -11,3 +11,5 @@ all subject
 - Linked List
 - Fibonacci
 - Destructors
+- Narcissistic
+
