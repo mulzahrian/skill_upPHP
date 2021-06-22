@@ -7,9 +7,7 @@ all subject
 - Stack
 - Fibonacci
 - Binary Tree
-- Stack
 - Linked List
-- Fibonacci
 - Destructors
 - Narcissistic
 - Two Dimmensional Array
