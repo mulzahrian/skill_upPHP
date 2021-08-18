@@ -3,7 +3,7 @@
 all php data structure practice
 - copy all file to try on your local
 
-all subject
+All subject
 - Stack
 - Fibonacci
 - Binary Tree
