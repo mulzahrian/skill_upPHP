@@ -4,6 +4,9 @@ all php data structure practice
 - clone file
 
 
+```
+git clone https://github.com/mulzahrian/inventory_ci.git
+```
 
 All subject
 - Stack
