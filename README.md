@@ -5,7 +5,7 @@ all php data structure practice
 
 
 ```
-git clone https://github.com/mulzahrian/inventory_ci.git
+git clone https://github.com/mulzahrian/skill_upPHP.git
 ```
 
 All subject
