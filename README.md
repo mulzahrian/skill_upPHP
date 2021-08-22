@@ -1,13 +1,10 @@
 # skill_upPHP
 
 all php data structure practice
-- clone file
-
-
+- clone this file with the url
 ```
 git clone https://github.com/mulzahrian/skill_upPHP.git
 ```
-
 All subject
 - Stack
 - Fibonacci
