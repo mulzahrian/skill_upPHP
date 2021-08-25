@@ -1,7 +1,7 @@
 # skill_upPHP
 
 all php data structure practice
-- clone this file with the url
+- Clone the repo with copy this text to your gitBash
 ```
 git clone https://github.com/mulzahrian/skill_upPHP.git
 ```
